@@ -1,0 +1,17 @@
+---
+title: "Topic B"
+---
+
+# Intro
+This posts discusses topic B, which is boring.
+
+# Should we borrow content from other topics?
+Let's bring over some content about topic A, which is known to be interesting.
+Specifically, there's a section with some code, which I believe is super cool.
+Let's use Quarto's `include` feature:
+(will it render?)
+{{< include /posts_bar/post_topic_a.qmd#code-example >}}
+
+What if we try using underscore in filename?
+(will it render?)
+{{< include /posts_bar/_post_topic_a.qmd#code-example >}}

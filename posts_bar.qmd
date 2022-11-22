@@ -1,0 +1,8 @@
+---
+title: "Posts Bar"
+listing: 
+  contents: posts_bar
+  type: grid
+  sort: "date desc" 
+  categories: true
+---

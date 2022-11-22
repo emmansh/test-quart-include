@@ -1,0 +1,14 @@
+{
+  "hash": "a3adcd6690248b8b0f03c1da6ebb9c03",
+  "result": {
+    "markdown": "---\ntitle: \"Topic A\"\n---\n\n\n# Intro\n\nThis posts discusses topic A, which is very interesting.\n\n# Code Example\n\nHere is some code about topic A:\n\n\n::: {.cell}\n\n```{.r .cell-code}\npaste(\"a\", \"a\", \"a\", sep = \"_\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] \"a_a_a\"\n```\n:::\n:::\n\n\n# Summary\n\nTopic A is the most intriguing subject on Earth\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

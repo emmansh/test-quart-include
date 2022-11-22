@@ -1,0 +1,19 @@
+---
+title: "Topic A"
+---
+
+# Intro
+
+This posts discusses topic A, which is very interesting.
+
+# Code Example
+
+Here is some code about topic A:
+
+```{r}
+paste("a", "a", "a", sep = "_")
+```
+
+# Summary
+
+Topic A is the most intriguing subject on Earth
